@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seri/Downloads/pa2-skeleton 2/pa2-test.c
+stdio.h
+-
+pa2.h
+/Users/seri/Downloads/pa2-skeleton 2/pa2.h
+
+/Users/seri/Downloads/pa2-skeleton 2/pa2.c
+stdio.h
+-
+pa2.h
+/Users/seri/Downloads/pa2-skeleton 2/pa2.h
+
+/Users/seri/Downloads/pa2-skeleton 2/pa2.h
+
